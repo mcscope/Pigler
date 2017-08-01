@@ -27,7 +27,7 @@ This is a fork/rebrand of JoseJPR's [Tinder repo](https://github.com/JoseJPR/Tin
 
 ### PROJECT Screenshot
 
-![PROJECT Screenshot](https://github.com/mcscope/Pigler/screenshot.png)
+![PROJECT Screenshot](https://github.com/mcscope/Pigler/raw/master/screenshots/screenshot.png)
 
 Maintained by the <a href="https://github.com/JoseJPR/Tinder/network/members" target="_blank">core</a> team with the help of <a href="https://github.com/JoseJPR/Tinder/graphs/contributors" target="_blank">our contributors</a>.
 
