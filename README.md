@@ -1,6 +1,14 @@
 # Pigler - Where Pigs and Humans meet!
 
-* Are you looking for pink, local pigs to meet? Look no further! It's like a farm, but better! Get it for free on Iphone, Android and your Browser.
+Are you looking for pink, local pigs to meet?
+
+Meet REAL pigs from local farms! 
+            
+   These pigs are just sqealing to meet you!
+
+It's like a farm, but better! 
+
+Get it for free on Iphone, Android and your Browser.
 
 # What do you need?
 
